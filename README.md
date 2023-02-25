@@ -4,11 +4,11 @@ The main objective of this project is to segregate mulberry leaves using an inte
 Image processing techniques and deep learning concepts are used to achieve this purpose. Integration of both hardware and software makes the work easier.
 
 The major task here is collecting the data which hat is images of healthy and diseased leaves which is used to train our model. Some of the major steps involved in the entire process are as follows:
-• Image acquisition
-• Pre-processing,
-• Segmentation,
-• Feature extraction and
-• Classification.
+1. Image acquisition
+2. Pre-processing,
+3. Segmentation,
+4. Feature extraction and
+5. Classification.
 
 Captured images of leaves are sent to pre-processing check. Here image resizing, leaf detection, and noise removal take place. Image cropping to the specified dimension, thresholding, and masking are done in Segmentation.
 
